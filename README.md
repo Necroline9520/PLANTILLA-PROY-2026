@@ -4,26 +4,26 @@ Repositorio del grupo X para el proyecto del ramo *Proyecto Inicial (IWG400)* �
 
 ## 👥 Integrantes del grupo
 
-| Nombre y Apellido | Usuario GitHub | Correo USM               | Rol USM      |
-| ----------------- | -------------- | ------------------------ | ------------ |
-| Nombre1 Apellido1 | @usuario1      | nombre1.apellido1@usm.cl | 200000000000 |
-| Nombre2 Apellido2 | @usuario2      | nombre2.apellido2@usm.cl | 200000000000 |
-| Nombre3 Apellido3 | @usuario3      | nombre3.apellido3@usm.cl | 200000000000 |
-| Nombre4 Apellido4 | @usuario4      | nombre4.apellido4@usm.cl | 200000000000 |
+| Nombre y Apellido   | Usuario GitHub   | Correo USM               | Rol USM      |
+| ------------------- | ---------------- | ------------------------ | ------------ |
+| Axel Sepulveda      | @Necroline9520   | asepulvedaj@usm.cl       | 202630010-2  |
+| Martin Morales      | @usuario2        | nombre2.apellido2@usm.cl | 200000000000 |
+| Benjamin santibañez | @usuario3        | nombre3.apellido3@usm.cl | 200000000000 |
 
 ## 📝 Descripción breve del proyecto
 
-> *Aquí va una descripción general del proyecto, incluyendo su propósito, contexto dentro del curso y motivación.*
+> La idea de este proyecto es resolver un problema relacionado con la gran incertidumbre de precios que existe en el sector ganadero en Chile, lo que dificulta la planificación y genera pérdidas económicas tanto a productores como distribuidores de Ganado.
+El sistema funcionara recopilando información histórica de precios del ganado, creando una base de datos a la cual se asociarán distintas variables que hacen que el precio cambie, como principales tenemos Clima, Stock de animales, precio del dólar e importaciones. El modelo procesara estos patrones para predecir tendencias en el precio del ganado.
 
 ---
 
 ## 🎯 Objetivos
 
 - Objetivo general:
-  - *Describir el objetivo principal del proyecto.*
+  - resolver un problema relacionado con la gran incertidumbre de precios que existe en el sector ganadero en Chile
 - Objetivos específicos:
   - *Listar objetivos concretos que permitirán alcanzar el objetivo general.*
-
+    (****)
 ---
 
 ## 🧩 Alcance del proyecto
@@ -34,11 +34,8 @@ Repositorio del grupo X para el proyecto del ramo *Proyecto Inicial (IWG400)* �
 
 ## 🛠️ Tecnologías y herramientas utilizadas
 
-- Lenguaje(s) de programación:
-  - Ej: Python, JavaScript, C++
-- Microcontroladores
-  - Arduino UNO Q, ESP32
-- Sensores
+- Google cloud
+- (Insertar aca si falta algo)
 
 ---
 
@@ -87,3 +84,4 @@ Repositorio del grupo X para el proyecto del ramo *Proyecto Inicial (IWG400)* �
 ## 📌 Notas adicionales
 
 > *Espacio para dejar cualquier comentario útil, como pendientes, acuerdos del grupo, consideraciones especiales, etc.*
+Voy a dejar las cosas con (***) para las cosas que vayan faltando entremedio
