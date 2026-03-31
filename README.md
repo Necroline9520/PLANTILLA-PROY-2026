@@ -13,7 +13,6 @@ Repositorio del grupo X para el proyecto del ramo *Proyecto Inicial (IWG400)* 鈥
 ## 馃摑 Descripci贸n breve del proyecto
 
 > La idea de este proyecto es resolver un problema relacionado con la gran incertidumbre de precios que existe en el sector ganadero en Chile, lo que dificulta la planificaci贸n y genera p茅rdidas econ贸micas tanto a productores como distribuidores de Ganado.
-> 
 El sistema funcionara recopilando informaci贸n hist贸rica de precios del ganado, creando una base de datos a la cual se asociar谩n distintas variables que hacen que el precio cambie, como principales tenemos Clima, Stock de animales, precio del d贸lar e importaciones. El modelo procesara estos patrones para predecir tendencias en el precio del ganado.
 
 ---
