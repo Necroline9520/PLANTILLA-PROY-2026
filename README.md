@@ -1,4 +1,4 @@
-# PROY-2026-GRUPOIX
+# PROY-2026-GRUPO-IX
 
 Repositorio del grupo IX para el proyecto del ramo *Proyecto Inicial (IWG400)* – 2026.
 
