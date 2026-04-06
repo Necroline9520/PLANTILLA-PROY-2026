@@ -34,9 +34,9 @@ El sistema funcionara recopilando información histórica de precios del ganado,
 
 ## 🛠️ Tecnologías y herramientas utilizadas
 
-- Google cloud
-- (Insertar aca si falta algo)
-
+- Google colab 
+- Python
+- 
 ---
 
 ## 🗂️ Estructura del repositorio
