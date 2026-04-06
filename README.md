@@ -8,7 +8,7 @@ Repositorio del grupo IX para el proyecto del ramo *Proyecto Inicial (IWG400)* �
 | ------------------- | ---------------- | ------------------------ | ------------ |
 | Axel Sepulveda      | @Necroline9520   | asepulvedaj@usm.cl       | 202630010-2  |
 | Martin Morales      | @MYM2169         | mmoralesi@usm.cl         | 202630035-8  |
-| Benjamin santibañez | @usuario3        | nombre3.apellido3@usm.cl | 200000000000 |
+| Benjamin santibañez | @benjaminsantibanezv       | bsantibanezv@usm.cl | 202630002-1 |
 
 ## 📝 Descripción breve del proyecto
 
