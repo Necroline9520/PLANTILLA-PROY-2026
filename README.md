@@ -7,7 +7,7 @@ Repositorio del grupo X para el proyecto del ramo *Proyecto Inicial (IWG400)* �
 | Nombre y Apellido   | Usuario GitHub   | Correo USM               | Rol USM      |
 | ------------------- | ---------------- | ------------------------ | ------------ |
 | Axel Sepulveda      | @Necroline9520   | asepulvedaj@usm.cl       | 202630010-2  |
-| Martin Morales      | @usuario2        | nombre2.apellido2@usm.cl | 200000000000 |
+| Martin Morales      | @MYM2169         | mmoralesi@usm.cl         | 202630035-8  |
 | Benjamin santibañez | @usuario3        | nombre3.apellido3@usm.cl | 200000000000 |
 
 ## 📝 Descripción breve del proyecto
