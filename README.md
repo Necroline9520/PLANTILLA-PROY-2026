@@ -36,7 +36,7 @@ El sistema funcionara recopilando información histórica de precios del ganado,
 
 - Google colab 
 - Python
-- 
+- Drive
 ---
 
 ## 🗂️ Estructura del repositorio
@@ -57,7 +57,7 @@ El sistema funcionara recopilando información histórica de precios del ganado,
 
 
 1. **Clonar el repositorio:** `git clone ...`
-2. **Dependencias:** Listar qué librerías necesitan (ej: `pip install -r requirements.txt` o librerías de Arduino).
+2. **Descargar los datos a un drive**
 3. **Ejecución:** Cómo se corre el código principal.
 
 ---
