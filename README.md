@@ -62,13 +62,6 @@ El sistema funcionara recopilando información histórica de precios del ganado,
 
 ---
 
-## 📐 Diseño del Sistema
-![Diagrama de Conexiones](./assets/diagrama_conexiones.png)
-
-*Explicacion grafica de como es la conexion entre el microcontrolador y los sensores*
-
----
-
 ## 📅 Cronograma de trabajo
 
 [Carta Gantt](https://usmcl-my.sharepoint.com/:x:/r/personal/asepulvedaj_usm_cl/Documents/Book%201.xlsx?d=w14a6bc7b00634e5da42228bc9c5926b3&csf=1&web=1&e=wt5eZn&nav=MTVfezAwMDAwMDAwLTAwMDEtMDAwMC0wMDAwLTAwMDAwMDAwMDAwMH0)
